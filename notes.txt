@@ -1,0 +1,29 @@
+  <header class="head">
+    <div class="container">
+      <div class="logo">
+        <img src="./assets/ico/logo_icon.png" alt="logo">
+        <h1>Добрый друг</h1>
+      </div>
+      <nav class="navbar__top">
+        <a href="#" class="link main">
+          Главная
+        </a>
+        <a href="#" class="link our__pets">
+          Наши питомцы
+        </a>
+        <a href="#" class="link contacts">
+          Контакты
+        </a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      main_coontent
+    </div>
+  </main>
+  <footer class="bottom">
+    <div class="container">
+      footer_content
+  </div>
+</footer>

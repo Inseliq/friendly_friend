@@ -1,0 +1,14 @@
+@import url(../root.css);
+
+main {
+  & div.container {
+
+    & .element_1 {
+
+    }
+
+    & .element_2 {
+      
+    }
+  }
+}

@@ -1,0 +1,18 @@
+:root {
+  --header: #556B2F;
+  --footer: #5C4033;
+  --body: #98FB98;
+  --main: #FAF0E6;
+  --main-font-color: #f5f5f5;
+  /* --card: #000; */
+}
+
+.dark:root {
+  --interface: #000000;
+  --body: #000;
+  --card: #000;
+}
+
+* {
+  color: var(--main-font-color);
+}
