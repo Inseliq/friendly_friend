@@ -7,14 +7,11 @@
 }
 
 .dark:root {
-  :root {
   --header: #AA94D0; /* Инверсия #556B2F */
   --footer: #A3BFCB; /* Инверсия #5C4033 */
   --body: #670670;   /* Инверсия #98FB98 */
   --main: #050F19;   /* Инверсия #FAF0E6 */
   --main-font-color: #0A0A0A; /* Инверсия #f5f5f5 */
-}
-
 }
 
 * {

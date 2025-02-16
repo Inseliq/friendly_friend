@@ -70,4 +70,11 @@ main {
 
 footer.bottom {
   background: var(--footer);
+
+  & div.container {
+    height: auto;
+    padding: 15px 10px;
+    justify-content: space-between;
+  }
 }
+

@@ -1,5 +1,14 @@
 @import url(../root.css);
 
 main {
-  
+  & * {
+    color: black;
+  }
+
+  & div.container {
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
 }
